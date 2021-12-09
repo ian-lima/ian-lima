@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e estou graduando em Análise e Desenvolvimento de
 
 ![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-lima&show_icons=true&theme=highcontrast)
 
-### Tecnologias que eu utilizo no meu dia
+### 🔷 Tecnologias que eu utilizo no meu dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,3 +21,8 @@ Sou apaixonado por tecnologia e estou graduando em Análise e Desenvolvimento de
 </div><br/>
 
 
+### 🔷 Hobby
+<img align="center" alt="Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img align="center" alt="CS" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+<img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
